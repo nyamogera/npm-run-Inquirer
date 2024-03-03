@@ -1,4 +1,12 @@
-{
+{  
+    "name": "npm-run-inquirer",
+    "version": "0.5.0",
+    "description": "Run npm scripts interactively",
+    "bin": {
+       "npm-run-inquirer": "index.js"
+    },
+    "author": "nyamogera<nyamogera@gmail.com>",
+    "license": "MIT",
     "type": "module",
     "dependencies": {
       "glob": "^10.3.10",

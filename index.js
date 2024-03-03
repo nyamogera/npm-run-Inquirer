@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { glob } from "glob";
 import inquirer from "inquirer";
 import yargs from "yargs";
