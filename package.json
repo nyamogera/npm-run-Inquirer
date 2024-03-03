@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+      "glob": "^10.3.10",
+      "inquirer": "^9.2.15",
+      "yargs": "^17.7.2"
+    }
+  }
+  
